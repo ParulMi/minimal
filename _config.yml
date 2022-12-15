@@ -1,6 +1,15 @@
-title: Minimal theme
+title: Parul Mishra
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description:
+<p align="center">
+  <a href="https://www.linkedin.com/in/parul-mishra-64495415/">LinkedIn</a> |
+  <a href="https://github.com/ParulMi">GitHub</a>
+  
+  <br>   
+  Working as Data Analyst, Project Manager, Agile Coach.
+  Worked with Infosys.
+  <br>
+  </p>
+show_downloads: no
 google_analytics:
 theme: jekyll-theme-minimal
